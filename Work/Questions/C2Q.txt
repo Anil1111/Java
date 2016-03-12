@@ -1,0 +1,10 @@
+2.24 (Largest and Smallest Integers) Write an application that reads five integers and determines
+and prints the largest and smallest integers in the group. Use only the programming techniques you
+learned in this chapter.
+
+2.25 (Odd or Even) Write an application that reads an integer and determines and prints wheth-
+er it’s odd or even. [Hint: Use the remainder operator. An even number is a multiple of 2. Any mul-
+tiple of 2 leaves a remainder of 0 when divided by 2.]
+
+2.26 (Multiples) Write an application that reads two integers, determines whether the first is a
+multiple of the second and prints the result. [Hint: Use the remainder operator.]
