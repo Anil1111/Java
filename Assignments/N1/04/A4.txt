@@ -1,0 +1,12 @@
+Assignment #4
+Exponentiation and GCD
+Provide an iterative method named integerPower( base, exponent ) that returns the value of baseexponent and an iterative method named gcd( number1, number2 ) that returns the greatest common divisor of the numbers, number1 and number2. 
+You may use Euclid's Algorithm to find the gcd.
+For example: integerPower(3,4) calculates 34 ( or 3 * 3 * 3 * 3 ) = 81. 
+Assume that the exponent parameter is a positive, nonzero integer; the base should be assumed to be any integer. 
+Use a for loop or a while loop ( your choice ) as the control structure of the calculation.
+Example result for GCD method: gcd(1543416,144) should return the value of 24.
+Incorporate these methods into an application program that prompts the user to enter a base, and exponent (for integerPower) number1 and number2 (for gcd); then outputting the results.  
+Do not use any static Math class methods or recursion for this assignment (this will result in an automatic zero for the assignment)!
+Due: 3/24/16 by 6:00PM. 
+For documentation, make sure to include a properly filled out PSP Spreadsheet for the assignment, and a flowchart for each of the two methods (exported as a PDF file - you might want to use draw.io) of your program's logical flow of how it works.
